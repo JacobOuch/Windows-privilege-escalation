@@ -1,6 +1,5 @@
 #  Windows #
-
-[Windows提权](https://www.fuzzysecurity.com/tutorials/16.html)
+对[Windows提权](https://www.fuzzysecurity.com/tutorials/16.html)进行的小小总结
 # Δt for t0 to t3 - Initial Information Gathering #
 ## 1.系统
     C:\Windows\system32> systeminfo | findstr /B /C:"OS Name" /C:"OS Version"
